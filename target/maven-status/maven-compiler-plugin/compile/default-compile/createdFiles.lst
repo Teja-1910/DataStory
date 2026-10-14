@@ -1,0 +1,3 @@
+com\datastory\web\DataStoryWebApplication.class
+com\datastory\web\WebController.class
+com\datastory\web\AnalysisService.class

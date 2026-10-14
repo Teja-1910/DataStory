@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: datastory-web
+    runtime: docker
+    plan: free
+    healthCheckPath: /
